@@ -1,4 +1,4 @@
-# Logicy_lb_2
+# Metrology_to_labs
 on_Delphi
 
 Main file is UMain.
